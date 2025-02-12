@@ -1,0 +1,41 @@
+font-family                = Monocraft
+font-family-bold           = Monocraft
+font-family-italic         = Monocraft
+font-family-bold-italic    = Monocraft
+
+font-size                  = 10
+
+font-feature               = -calt
+font-feature               = -liga
+font-feature               = -dlig
+
+font-synthetic-style       = no-bold
+font-synthetic-style       = no-italic
+font-synthetic-style       = no-bold-italic
+
+adjust-cell-width          = 6%
+adjust-cell-height         = 16%
+adjust-underline-position  = 2
+adjust-underline-thickness = 20%
+
+shell-integration          = none
+shell-integration-features = no-cursor
+
+confirm-close-surface      = false
+resize-overlay             = never
+
+cursor-style               = block
+adjust-cursor-height       = 2
+
+window-decoration          = false
+window-padding-x           = 12
+window-padding-y           = 12
+window-padding-balance     = true
+
+theme                      = Darkppuccin
+
+gtk-adwaita                = false
+gtk-single-instance        = true
+
+custom-shader-animation    = true
+custom-shader = /home/q/.config/ghostty/shaders/rgbsplit.glsl
