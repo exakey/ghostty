@@ -35,7 +35,7 @@ window-padding-balance     = true
 theme                      = Darkppuccin
 
 gtk-adwaita                = false
-gtk-single-instance        = true
+gtk-single-instance        = false
 
 custom-shader-animation    = true
-custom-shader = /home/q/.config/ghostty/shaders/rgbsplit.glsl
+custom-shader = /home/q/.config/ghostty/shaders/crt-chromatic.glsl
