@@ -38,4 +38,6 @@ gtk-adwaita                = false
 gtk-single-instance        = false
 
 custom-shader-animation    = true
-custom-shader = /home/q/.config/ghostty/shaders/crt-chromatic.glsl
+custom-shader = /home/q/.config/ghostty/shaders/rgbsplit.glsl
+
+keybind = performable:ctrl+,=ignore
