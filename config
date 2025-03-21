@@ -40,4 +40,10 @@ gtk-single-instance        = true
 custom-shader-animation    = true
 custom-shader = /home/q/.config/ghostty/shaders/rgbsplit.glsl
 
-keybind = ctrl+,=ignore
+keybind = ctrl+,=unbind
+keybind = ctrl+shift+a=unbind
+keybind = ctrl+shift+i=unbind
+keybind = ctrl+shift+n=unbind
+keybind = ctrl+shift+o=unbind
+keybind = ctrl+shift+q=unbind
+keybind = ctrl+shift+t=unbind
